@@ -19,7 +19,7 @@ body {
 
 img, picture, video, canvas, svg {
     display: block;
-    max-width: 100%;
+    
 }
 
 input, button, textarea, select {
@@ -244,8 +244,8 @@ nav a {
 .watch {
     font-size: 30px;
     line-height: 37px;
-    margin: 32px 0; 
-    padding: 0 0 100px;
+    margin: 32px 0px ; 
+    padding: 0px 0px 100px;
 }
 
 .cards-temp {
@@ -260,7 +260,7 @@ nav a {
     gap: 24px;
     border-radius: 12px;
     background: #FFFFFF;
-    margin: 40px 0;  
+    margin: 40px;  
 }
 
 .card1 {
@@ -311,12 +311,13 @@ ul {
 .divier3 {
     margin: 70px 0;
     max-width: 100%;
-   
 }
+
+
 
 .last-footers {
     display: flex;
-    padding: 0 150px 48px;
+    padding: 0px 150px 0px;
     justify-content: space-between;
 }
 
