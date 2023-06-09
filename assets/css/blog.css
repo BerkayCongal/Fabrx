@@ -313,7 +313,9 @@ ul {
     max-width: 100%;
 }
 
-
+.container2 {
+    padding: 36px 0 36px 0;
+}
 
 .last-footers {
     display: flex;
